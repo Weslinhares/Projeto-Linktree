@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="Projeto Linktree" src="Wesley Linhares.jpg" width="100%">
+  <img alt="Projeto Linktree" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
