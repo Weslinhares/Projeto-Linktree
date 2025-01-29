@@ -201,8 +201,8 @@ footer {
   position:fixed;
   top: 10px;  /* Ajuste a distância do topo conforme necessário */
   left: 10px; /* Ajuste a distância da esquerda conforme necessário */
-  width: 350px; /* Ajuste a largura conforme necessário */
-  height: 500px; /* Ajuste a altura conforme necessário */
+  width: 250px; /* Ajuste a largura conforme necessário */
+  height: 600px; /* Ajuste a altura conforme necessário */
 }
 
 .spotify-player iframe {
