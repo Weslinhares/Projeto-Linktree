@@ -13,5 +13,14 @@ function toggleMode() {
      // se tiver sem o light mode, manter a imagem normal
     img.setAttribute("src", "./assets/avatar34.png")
   }
+  document.document.documentElement('DOMContentLoaded', function() {
+    const iframe = document.getElementById('spotifyIframe').contentWindow;
+
+    iframe.postMessage({
+        'method': 'play'
+    }, 'https://open.spotify.com/playlist/4Dd5ulCYUVwBnkNtKoGU7m?si=42d5702433d04c0d');
+});
 }
+
+
 
