@@ -20,6 +20,7 @@ function toggleMode() {
         'method': 'play'
     }, 'https://open.spotify.com/playlist/4Dd5ulCYUVwBnkNtKoGU7m?si=42d5702433d04c0d');
 });
+
 }
 
 
