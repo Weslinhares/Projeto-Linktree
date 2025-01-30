@@ -51,6 +51,7 @@ body * {
   width: 112px;
 }
 
+
 #profile p {
   font-weight: 500;
   /*font-size: 16px;*/ /*por padrão os navegadores já vem com tamanho de fonte de 16px*/
@@ -204,17 +205,11 @@ footer {
   top: 10px;  /* Ajuste a distância do topo conforme necessário */
   left: 10px; /* Ajuste a distância da esquerda conforme necessário */
   width: 300px; /* Ajuste a largura conforme necessário */
-  height: 270px; /* Ajuste a altura conforme necessário */
+  height: 400px; /* Ajuste a altura conforme necessário */
 }
 
 .spotify-player iframe {
-  width: 130%;
-  height: 60%;
+  width: 180%;
+  height: 100%;
 }
-@media (min-widht 700px){
- .spotify-player 
-    width: 10px;
-    height: 0px;
-    top: 0px;
-    left: 1px;
- }
+
